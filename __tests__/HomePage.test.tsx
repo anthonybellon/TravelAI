@@ -14,6 +14,6 @@ jest.mock('next-intl', () => ({
 
 it('should render the title', () => {
   render(<HomePage />);
-  const myTitle = screen.getByText('Welcome to the HomePage');
+  const myTitle = screen.getByText('VINTAGE TRAVELER PLANNER');
   expect(myTitle).toBeInTheDocument();
 });
