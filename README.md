@@ -1,4 +1,3 @@
-```markdown
 # Vintage Traveler Planner
 
 A proof of concept AI chatbot that generates personalized travel recommendations in the style of a 1920s travel salesman. This project uses modern web technologies with a vintage design aesthetic.
@@ -39,4 +38,3 @@ A proof of concept AI chatbot that generates personalized travel recommendations
 ## License
 
 This project is licensed under the MIT License.
-```
